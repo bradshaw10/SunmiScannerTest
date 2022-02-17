@@ -1,0 +1,14 @@
+C:\Users\EBradshaw\source\repos\SunmiScannerTest\SunmiScannerTest\SunmiScannerTest\bin\Debug\netstandard2.0\SunmiScannerTest.deps.json
+C:\Users\EBradshaw\source\repos\SunmiScannerTest\SunmiScannerTest\SunmiScannerTest\bin\Debug\netstandard2.0\SunmiScannerTest.dll
+C:\Users\EBradshaw\source\repos\SunmiScannerTest\SunmiScannerTest\SunmiScannerTest\bin\Debug\netstandard2.0\ref\SunmiScannerTest.dll
+C:\Users\EBradshaw\source\repos\SunmiScannerTest\SunmiScannerTest\SunmiScannerTest\bin\Debug\netstandard2.0\SunmiScannerTest.pdb
+C:\Users\EBradshaw\source\repos\SunmiScannerTest\SunmiScannerTest\SunmiScannerTest\obj\Debug\netstandard2.0\SunmiScannerTest.csprojAssemblyReference.cache
+C:\Users\EBradshaw\source\repos\SunmiScannerTest\SunmiScannerTest\SunmiScannerTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EBradshaw\source\repos\SunmiScannerTest\SunmiScannerTest\SunmiScannerTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EBradshaw\source\repos\SunmiScannerTest\SunmiScannerTest\SunmiScannerTest\obj\Debug\netstandard2.0\SunmiScannerTest.AssemblyInfoInputs.cache
+C:\Users\EBradshaw\source\repos\SunmiScannerTest\SunmiScannerTest\SunmiScannerTest\obj\Debug\netstandard2.0\SunmiScannerTest.AssemblyInfo.cs
+C:\Users\EBradshaw\source\repos\SunmiScannerTest\SunmiScannerTest\SunmiScannerTest\obj\Debug\netstandard2.0\SunmiScannerTest.csproj.CoreCompileInputs.cache
+C:\Users\EBradshaw\source\repos\SunmiScannerTest\SunmiScannerTest\SunmiScannerTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EBradshaw\source\repos\SunmiScannerTest\SunmiScannerTest\SunmiScannerTest\obj\Debug\netstandard2.0\SunmiScannerTest.dll
+C:\Users\EBradshaw\source\repos\SunmiScannerTest\SunmiScannerTest\SunmiScannerTest\obj\Debug\netstandard2.0\ref\SunmiScannerTest.dll
+C:\Users\EBradshaw\source\repos\SunmiScannerTest\SunmiScannerTest\SunmiScannerTest\obj\Debug\netstandard2.0\SunmiScannerTest.pdb
